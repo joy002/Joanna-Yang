@@ -7,19 +7,13 @@ email: <joy002@ucsd.edu>
 <details><summary>CSE courses taken in UCSD</summary>
 <p>
 
-* CSE 8A
-
-* CSE 8B
-
-* CSE 12
-
-* CSE 15L
-
-* CSE 20
-
-* CSE 21
-
-* CSE 30
+* CSE 8A<br>
+* CSE 8B<br>
+* CSE 12<br>
+* CSE 15L<br>
+* CSE 20<br>
+* CSE 21<br>
+* CSE 30<br>
 
 </p>
 </details>
