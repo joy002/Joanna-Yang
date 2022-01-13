@@ -1,4 +1,16 @@
-<p align="center">
-**# Joanna Yang**
+# Joanna Yang
 
-</p>
+email: <joy002@ucsd.edu>
+
+<details><summary>CSE courses taken in UCSD</summary>
+
+```
+CSE 8A
+CSE 8B
+CSE 12
+CSE 15L
+CSE 20
+CSE 21
+CSE 30
+
+```
