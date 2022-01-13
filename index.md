@@ -6,11 +6,16 @@ email: <joy002@ucsd.edu>
 
 ```
 CSE 8A
-CSE 8B
-CSE 12
-CSE 15L
-CSE 20
-CSE 21
-CSE 30
 
+CSE 8B
+
+CSE 12
+
+CSE 15L
+
+CSE 20
+
+CSE 21
+
+CSE 30
 ```
