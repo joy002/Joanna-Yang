@@ -39,7 +39,7 @@ email: <joy002@ucsd.edu>
 <details><summary>Resume(more detailed about me)</summary>
 <p>
 
-[Resume](My%20resume-2.pdf)
+[Resume](My resume-2.pdf)
 
 </p>
 </details>
