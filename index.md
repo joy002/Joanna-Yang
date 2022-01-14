@@ -7,13 +7,13 @@ email: <joy002@ucsd.edu>
 <details><summary>CSE courses taken in UCSD</summary>
 <p>
 
- > CSE 8A<br>
- > CSE 8B<br>
- > CSE 12<br>
- > CSE 15L<br>
- > CSE 20<br>
- > CSE 21<br>
- > CSE 30<br>
+ > CSE 8A - Programming in Python<br>
+ > CSE 8B - Programming in Java<br>
+ > CSE 12 - Data Structure<br>
+ > CSE 15L - Software Tools & Technique(Linux)<br>
+ > CSE 20 - Discrete Math<br>
+ > CSE 21 - Math for Algorithms and Systems<br>
+ > CSE 30 - Computer Organization and System Programming<br> 
 
 </p>
 </details>
