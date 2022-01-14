@@ -39,7 +39,7 @@ email: <joy002@ucsd.edu>
 <details><summary>Resume(more detailed about me)</summary>
 <p>
 
-[Resume](https://github.com/joy002/Joanna-Yang/blob/main/My%20resume-2.pdf)
+[Resume](gitResume.pdf)
 
 </p>
 </details>
