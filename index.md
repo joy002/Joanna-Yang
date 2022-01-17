@@ -14,6 +14,8 @@ email: <joy002@ucsd.edu>
  > CSE 20 - Discrete Math<br>
  > CSE 21 - Math for Algorithms and Systems<br>
  > CSE 30 - Computer Organization and System Programming<br> 
+ > CSE 95 - Tutor Apprentics<br>
+ > CSE 199 - Independent Study(Research)<br>
 
 </p>
 </details>
