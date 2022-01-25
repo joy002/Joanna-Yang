@@ -7,7 +7,8 @@ email: <joy002@ucsd.edu>
 <details><summary>Scholarship/Award/Honor</summary>
 <p>
 
- > Awarded by Apple Scholar Program with $15000 scholarship.
+ > Awarded by Apple Scholar Program 2021-2022 with $15000 scholarship.
+ > IDEA Scholar - Selected as 1 of 40 out of 400 applicants.
 
 </p>
 </details>
@@ -16,7 +17,7 @@ email: <joy002@ucsd.edu>
 <p>
 
  > Research with Dr. Munyaka on the area of security and privacy<br>
- > Tutor in CSE 15L<br>
+ > Tutor in CSE15L in UCSD Department of Computer Science and Engineering<br>
 
 </p>
 </details>
