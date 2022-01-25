@@ -4,6 +4,23 @@ Currently exploring the area of security and privacy.
 
 email: <joy002@ucsd.edu>
 
+<details><summary>Scholarship/Award/Honor</summary>
+<p>
+
+ > Awarded by Apple Scholar Program with $15000 scholarship.
+
+</p>
+</details>
+
+<details><summary>Currently Working on...</summary>
+<p>
+
+ > Research with Dr. Munyaka on the area of security and privacy<br>
+ > Tutor in CSE 15L<br>
+
+</p>
+</details>
+
 <details><summary>CSE courses taken in UCSD</summary>
 <p>
 
@@ -25,15 +42,6 @@ email: <joy002@ucsd.edu>
 
  > Triton Solar Car Team<br>
  > TritonHacks<br>
-
-</p>
-</details>
-
-<details><summary>Currently Working on...</summary>
-<p>
-
- > Research with Dr. Munyaka<br>
- > Tutor in CSE 15L<br>
 
 </p>
 </details>
