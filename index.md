@@ -7,7 +7,7 @@ email: <joy002@ucsd.edu>
 <details><summary>Scholarship/Award/Honor</summary>
 <p>
 
- > Awarded by Apple Scholar Program 2021-2022 with $15000 scholarship.<br>
+ > Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022<br>
  > IDEA Scholar - Selected as 1 of 40 out of 400 applicants.<br>
 
 </p>
