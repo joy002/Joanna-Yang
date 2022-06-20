@@ -3,9 +3,9 @@ LinkIn: Joanna Yang
 ---
   
 **EDUCATION:**
-- University of San Diego - Jacobs School of Engineering, B.S Computer Science
-  Expected Graduation: June, 2024
-  3.59 GPA
+- University of San Diego - Jacobs School of Engineering, B.S Computer Science<br>
+  Expected Graduation: June, 2024<br>
+  3.59 GPA<br>
 
 **EXPERIENCE**
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)
