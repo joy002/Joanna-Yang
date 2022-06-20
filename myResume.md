@@ -3,8 +3,7 @@ LinkIn: Joanna Yang
 ---
   
 **EDUCATION:**
-- University of San Diego - Jacobs School of Engineering
-  B.S Computer Science
+- University of San Diego - Jacobs School of Engineering, B.S Computer Science
   Expected Graduation: June, 2024
   3.59 GPA
 
