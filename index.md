@@ -2,7 +2,7 @@ I am a second year Computer Science Major in the Jacob School of Engineering in 
 
 email: <joy002@ucsd.edu>
 
-<details><summary>EXPERIENCE</summary>
+<details><summary>Experience</summary>
 <p>
 
  > Software Development Engineering Intern, Apple<br>
