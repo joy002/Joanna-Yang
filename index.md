@@ -1,23 +1,25 @@
 I am a second year Computer Science Major in the Jacob School of Engineering in University of California - San Diego.<br>
 
-Currently exploring the area of security and privacy.
-
 email: <joy002@ucsd.edu>
+
+<details><summary>EXPERIENCE</summary>
+<p>
+
+ > Software Development Engineering Intern, Apple<br>
+ > Software/Data Science Intern, Matrix Sensor<br>
+ > UCSD Security and Cryptography Research Group - Undergraduate Researcher<br>
+ > CSE15L: Software Tools and Techniques Laboratory tutor in UCSD Department of Computer Science and Engineering<br>
+
+</p>
+</details>
 
 <details><summary>Scholarship/Award/Honor</summary>
 <p>
 
  > Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022<br>
- > IDEA Scholar - Selected as 1 of 40 out of 400 applicants.<br>
-
-</p>
-</details>
-
-<details><summary>Currently Working on...</summary>
-<p>
-
- > Research with Dr. Munyaka on the area of security and privacy<br>
- > Tutor in CSE15L in UCSD Department of Computer Science and Engineering<br>
+ > Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants<br>
+ > Certificate for presenting in Online Undergraduate Research Symposium<br>
+ > Provost Honors<br>
 
 </p>
 </details>
@@ -33,6 +35,8 @@ email: <joy002@ucsd.edu>
  > CSE 21 - Math for Algorithms and Systems<br>
  > CSE 30 - Computer Organization and System Programming<br> 
  > CSE 95 - Tutor Apprentics<br>
+ > CSE 100 - Data Structure<br>
+ > CSE 105 - Theory of Computation<br>
  > CSE 199 - Independent Study(Research)<br>
 
 </p>
