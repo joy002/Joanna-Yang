@@ -9,6 +9,7 @@ LinkIn: Joanna Yang
 
 **EXPERIENCE**
 - Software Development Engineering Intern, Apple                                (6/21/2022 - 9/16/2022)
+  - Added new features on both iOS and macOS Spotlight using Objective-C. 
 - Software/Data Science Intern, Matrix Sensor                                   (4/18/2022 - 6/16/2022)
   - Reduced 100+ lines code redundancy in existing script while preserving readability.
   - Using python to implement data and create analysis graphs forcompany gas generator analysis.
