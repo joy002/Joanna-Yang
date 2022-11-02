@@ -1,4 +1,4 @@
-I am a second year Computer Science Major in the Jacob School of Engineering in University of California - San Diego.<br>
+I am a third year Computer Science Major in the Jacob School of Engineering in University of California - San Diego.<br>
 
 email: <joy002@ucsd.edu>
 
@@ -36,7 +36,11 @@ email: <joy002@ucsd.edu>
  > CSE 30 - Computer Organization and System Programming<br> 
  > CSE 95 - Tutor Apprentics<br>
  > CSE 100 - Data Structure<br>
+ > CSE 101 - Design and Analysis of Algorithm<br>
  > CSE 105 - Theory of Computation<br>
+ > CSE 140 - Components and Design Techniques for Digital Systems<br>
+ > CSE 140L - Digital Systems Lab<br>
+ > CSE 100 - Data Structure<br>
  > CSE 199 - Independent Study(Research)<br>
 
 </p>
