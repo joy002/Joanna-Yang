@@ -1,5 +1,6 @@
 Email: joy002@ucsd.edu<br>
 LinkIn: Joanna Yang<br>
+
 ---
   
 **EDUCATION:**
