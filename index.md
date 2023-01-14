@@ -59,4 +59,4 @@ email: <joy002@ucsd.edu>
 </details>
 
 **More Detail About Me**
-[Resume](https://github.com/joy002/Joanna-Yang/blob/main/myResume.html)
+[Resume](https://joy002.github.io/Joanna-Yang/myResume.html)
