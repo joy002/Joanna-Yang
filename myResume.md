@@ -1,8 +1,7 @@
 Email: joy002@ucsd.edu<br>
 LinkIn: Joanna Yang<br>
 
----
-  
+--- 
 **EDUCATION:**
 - University of San Diego - Jacobs School of Engineering, B.S Computer Science<br>
   Expected Graduation: June, 2024<br>
