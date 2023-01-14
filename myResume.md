@@ -1,6 +1,5 @@
 Email: joy002@ucsd.edu<br>
 LinkIn: Joanna Yang
----
   
 **EDUCATION:**
 - University of San Diego - Jacobs School of Engineering, B.S Computer Science<br>
