@@ -16,6 +16,7 @@ email: <joy002@ucsd.edu>
 <details><summary>Scholarship/Award/Honor</summary>
 <p>
 
+ > Selected and Awarded $2131.5 scholarship by The Rick Ord Scholarship Fund, 2022-2023<br>
  > Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022<br>
  > Inclusion Diversity Excellence Achievement(IDEA) Scholar - Selected as 1 of 40 out of 400 applicants<br>
  > Certificate for presenting in Online Undergraduate Research Symposium<br>
@@ -40,7 +41,9 @@ email: <joy002@ucsd.edu>
  > CSE 105 - Theory of Computation<br>
  > CSE 140 - Components and Design Techniques for Digital Systems<br>
  > CSE 140L - Digital Systems Lab<br>
- > CSE 100 - Data Structure<br>
+ > CSE 141 - Principles of Computer Architecture<br>
+ > CSE 141L - Project in Computer Architecture<br>
+ > CSE 152A - Introduction to Computer Vision<br>
  > CSE 199 - Independent Study(Research)<br>
 
 </p>
