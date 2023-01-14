@@ -27,8 +27,9 @@ LinkIn: Joanna Yang
   - Participated in weekly teaching staff meetings with professors, teaching assistants and other tutors. Bridged the communication between course staff and students.
 
 **Scholarship/Award/Honor:**
+- Selected and Awarded $2131.5 scholarship by The Rick Ord Scholarship Fund, 2022-2023
 - Selected and Awarded $15,000 scholarship by Apple Scholar Program 2021-2022
-- Inclusion Diversity Excellence Achievement(IDEA) Scholar: Selected as 1 of 40 out of 400 applicants.
+- Inclusion Diversity Excellence Achievement(IDEA) Scholar: Selected as 1 of 40 out of 400 applicants
 - Certificate for presenting in Online Undergraduate Research Symposium
 - Provost Honors
 
